@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-starter",
+  "version": "1.0.0",
+  "description": "NodeJs boilerplate for REST API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ilchuk-Mihail/nodejs-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ilchuk-Mihail/nodejs-starter/issues"
+  },
+  "homepage": "https://github.com/Ilchuk-Mihail/nodejs-starter#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "1.7.0",
+    "jsonwebtoken": "^7.3.0",
+    "mongoose": "^5.1.1"
+  }
+}
