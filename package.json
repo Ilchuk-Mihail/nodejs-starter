@@ -17,8 +17,9 @@
   },
   "homepage": "https://github.com/Ilchuk-Mihail/nodejs-starter#readme",
   "dependencies": {
-    "express": "^4.17.1",
     "body-parser": "1.7.0",
+    "express": "^4.17.1",
+    "express-promise-router": "^3.0.3",
     "jsonwebtoken": "^7.3.0",
     "mongoose": "^5.1.1"
   },
