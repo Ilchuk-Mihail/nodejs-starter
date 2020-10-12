@@ -1,0 +1,7 @@
+bail: true
+check-leaks: true
+# delay: true
+exit: true
+recursive: true
+sort: true
+# file: ./test/setup
