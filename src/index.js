@@ -1,3 +1,5 @@
+'use strict'
+
 const express = require('express')
 
 const routes = require('./routes')
@@ -9,5 +11,5 @@ app.use(express.json())
 app.use('/', routes)
 
 app.listen(3000, function () {
-  console.log('App listening on port 3000!')
+  console.log('app listening on port 3000!')
 })
