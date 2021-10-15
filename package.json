@@ -26,7 +26,7 @@
     "jsonwebtoken": "^8.5.1"
   },
   "devDependencies": {
-    "axios": "^0.20.0",
+    "axios": "^0.21.2",
     "eslint": "^7.10.0",
     "chai": "^4.2.0",
     "mocha": "^8.1.3",
